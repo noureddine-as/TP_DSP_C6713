@@ -1,0 +1,5 @@
+menuitem "GAIN"
+slider GAIN(1, 4, 1, 1, nom_param)
+{
+	GAIN = nom_param;
+} 

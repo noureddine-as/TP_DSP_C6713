@@ -1,0 +1,5 @@
+menuitem "STEP"
+slider STEP(1, 40, 1, 1, nom_param)
+{
+	STEP = nom_param;
+} 
